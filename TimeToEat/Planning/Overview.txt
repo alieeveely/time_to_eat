@@ -1,0 +1,49 @@
+﻿<---------------------------------------------------------------------------------------------------------------------------->
+MANIFESTO OF THE HUNGRY :^)
+<---------------------------------------------------------------------------------------------------------------------------->
+my agenda: create an app where recipes are presented *nicely* 
+also my agenda: encourage more people to cook themselves 
+my agenda continued: make cooking fun >:) 
+my wild imagination: people having my app open in the kitchen and when they come and cook it goes *pop* *pop* hello there :^^)
+<---------------------------------------------------------------------------------------------------------------------------->
+        (
+          )
+     __..---..__
+ ,-='  /  |  \  `=-.
+:--..___________..--;
+ \.,_____________,./            (                                  
+                                  )
+                             __..---..__
+                         ,-='  /  |  \  `=-.
+                        :--..___________..--;
+                         \.,_____________,./           (
+                                                         )
+                                                    __..---..__
+                                                ,-='  /  |  \  `=-.
+                                               :--..___________..--;
+                                                \.,_____________,./   
+
+<---------------------------------------------------------------------------------------------------------------------------->
+what features I want: 
+-> people can download recipe packages 
+-> people can type in their own recipes <3 
+-> for ingredients and methods to have animated//graphic cute icons
+->    \  :  /
+   `. __/ \__ .'
+   _ _\     /_ _
+      /_   _\
+    .'  \ /  `.
+      /  :  \    pixelated design 
+-> have like a log of what they've cooked before (FOOD DIARY) 
+<---------------------------------------------------------------------------------------------------------------------------->
+Big steps:
+-> plan more 
+-> figure out recipe database
+-> design user story, rough backend logic + UI
+-> do 
+-> pipe!!
+-> draw, animate, code 
+-> eat
+<---------------------------------------------------------------------------------------------------------------------------->
+END OF MANIFESTO (for now)
+<---------------------------------------------------------------------------------------------------------------------------->
